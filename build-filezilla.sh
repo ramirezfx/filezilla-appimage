@@ -18,5 +18,5 @@ wget https://github.com/AppImage/AppImageKit/releases/download/continuous/appima
 chmod 700 appimagetool-x86_64.AppImage
 ./appimagetool-x86_64.AppImage FileZilla3.AppDir
 rm appimagetool-x86_64.AppImage
-rm FileZilla3.AppDir
+rm -Rf FileZilla3.AppDir
 rm filezilla-latest.tar
