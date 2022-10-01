@@ -10,7 +10,7 @@ Install GIT:
 
 Clone this repo:
 
-`git clone https://github.com/ramirezfx/filezillla-appimage.git`
+`git clone https://github.com/ramirezfx/filezilla-appimage.git`
 
 Navigate to the script-directory:
 
